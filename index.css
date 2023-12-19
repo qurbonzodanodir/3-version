@@ -1,0 +1,19 @@
+.comtener{
+    margin: auto;
+}
+.d1,.d2,.d3{
+    width: 350px;
+    border-width: 5px;
+    border-color: blueviolet;
+    border-style: solid ;
+    margin: 5px 10px 12px 15px;
+    display: inline-block;
+   
+}
+a{
+    color: aliceblue;
+    background-color: black;
+    border-color: brown;
+    padding: 5px;
+    margin-left: 50px;
+}
